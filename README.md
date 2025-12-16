@@ -21,7 +21,7 @@ Installation
 
 Install the tool folder
 
-git clone https://github.com/your-repo/wifite-premium-edition.git
+git clone 
 
 
 Navigate to the tool directory
